@@ -7,8 +7,11 @@ This project leverages the MERN stack along with Socket.io, TailwindCSS, and Dai
 ## Commands
 Set up .env file for 
 PORT=
-MONGO_DB_URI=
-JWT_SECRET=
+
+MONGO_DB_URL=
+
+JWT_SECRET_KEY=
+
 NODE_ENV=
 
 Run : 
