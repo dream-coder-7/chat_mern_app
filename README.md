@@ -17,5 +17,11 @@ NODE_ENV=
 
 Run : 
 
+## Backend:
+
 - npm run build
 - npm start
+
+## Frontend:
+
+- npm run dev
